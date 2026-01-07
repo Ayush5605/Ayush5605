@@ -1,5 +1,5 @@
 # 💫 About Me:
-Computer Engineering Student<br>I'm a full-stack(MERN) developer<br>Currently learning AI/ML<br>Creating Responsive web-sites<br><br><br>
+🎓Computer Engineering Student<br>💻I'm a full-stack(MERN) developer<br>🤖Currently learning AI/ML<br>🌐 Creating Responsive web-sites<br><br><br>
 
 
 ## 🌐 Socials:
