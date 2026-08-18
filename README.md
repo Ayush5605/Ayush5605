@@ -46,17 +46,9 @@ Machine Learning • Deep Learning • Computer Vision •
 MediaPipe • RAG • LangChain
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=Ayush5605&show_icons=true&theme=tokyonight"
-    height="180"
-  />
-
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayush5605&layout=compact&theme=tokyonight"
-    height="180"
-  />
-</p>
+<!-- Stats grid -->
+![stats](https://github-readme-stats.vercel.app/api?username=Ayush5605&show_icons=true&theme=dark)
+![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ayush5605&layout=compact&theme=dark)
 ## 📈 Contribution Activity
 
 <p align="center">
