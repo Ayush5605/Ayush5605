@@ -1,44 +1,72 @@
-# Hello, I'm [Your Name]! 🚀
+<h1 align="center">Hi 👋, I'm Ayush Auti</h1>
 
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
-</div>
+<h3 align="center">
+Computer Engineering Student | Full Stack Developer | AI/ML Enthusiast
+</h3>
 
----
+<p align="center">
+  <a href="https://www.linkedin.com/in/ayushauti5605/">LinkedIn</a> •
+  <a href="ayush-portfolio56.vercel.app">Portfolio</a> •
+  <a href="ayushauti5605@gmail.com">Email</a>
+</p>
 
-## 👨💻 Quick Overview
+## 👨‍💻 About Me
 
-<table>
-<tr>
-<td valign="top" width="50%">
+- 🎓 Computer Engineering student
+- 💻 Full Stack Developer focused on MERN and Spring Boot
+- 🤖 Currently building projects in Machine Learning, Deep Learning and Computer Vision
+- 🧠 Exploring RAG, LangChain and AI-powered applications
+- 🚀 Interested in building production-ready software and AI systems
+- 📚 Currently strengthening DSA, Machine Learning and System Design
 
-### 🛠️ Technologies I Work With
+- ## 🛠️ Tech Stack
 
-#### Languages
-- JavaScript / TypeScript
-- Python
-- Java
-- Go
+### Languages
 
-#### Frameworks & Libraries
-- React, Next.js, Vue.js
-- Node.js, Express, NestJS
-- Django, FastAPI
-- Spring Boot
+<p>
+  <img src="https://skillicons.dev/icons?i=java,python,js,cpp,sql" />
+</p>
+### Full Stack
 
-#### Tools & Platforms
-- Git, GitHub Actions
-- Docker, Kubernetes
-- AWS, Azure, GCP
-- MongoDB, PostgreSQL
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,spring,tailwind,bootstrap" />
+</p>
+### Databases
 
-</td>
-<td valign="top" width="50%">
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres" />
+</p>
+### AI / ML
 
-### 📈 This Week I Spent Time On
+<p>
+  <img src="https://skillicons.dev/icons?i=python,pytorch" />
+</p>
 
-<!--START_SECTION:waka-->
-```text
-JavaScript   15 hrs 25 mins  ██████████████████████░░  88.5%
-Python       1 hr 45 mins    ███░░░░░░░░░░░░░░░░░░░  10.1%
-JSON         15 mins         ░░░░░░░░░░░░░░░░░░░░░░   1.4%
+Machine Learning • Deep Learning • Computer Vision •
+MediaPipe • RAG • LangChain
+## 📊 GitHub Stats
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"
+    height="180"
+  />
+
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"
+    height="180"
+  />
+</p>
+## 📈 Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night" />
+</p>
+## 💡 What I Like Building
+
+- ⚙️ Full-stack web applications
+- 🤖 AI-powered applications
+- 👁️ Computer Vision systems
+- 📊 Data-driven applications
+- 🔗 RAG and LLM-powered systems
+- 🧩 Backend APIs and scalable services
