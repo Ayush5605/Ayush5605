@@ -62,3 +62,5 @@ MediaPipe • RAG • LangChain
 - 📊 Data-driven applications
 - 🔗 RAG and LLM-powered systems
 - 🧩 Backend APIs and scalable services
+
+- ![](https://komarev.com/ghpvc/?usernam-Ayush5605&color=green)
