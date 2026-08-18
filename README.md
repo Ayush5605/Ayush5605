@@ -48,19 +48,19 @@ MediaPipe • RAG • LangChain
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"
+    src="https://github-readme-stats.vercel.app/api?username=Ayush5605&show_icons=true&theme=tokyonight"
     height="180"
   />
 
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayush5605&layout=compact&theme=tokyonight"
     height="180"
   />
 </p>
 ## 📈 Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ayush5605&theme=tokyo-night" />
 </p>
 ## 💡 What I Like Building
 
