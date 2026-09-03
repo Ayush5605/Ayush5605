@@ -21,10 +21,12 @@
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-
 ![SQL](https://img.shields.io/badge/-SQL-05122A?style=flat&logo=postgresql)&nbsp;
-
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)
+
+
+
+
 
 **AI / ML**\
 ![PyTorch](https://img.shields.io/badge/-PyTorch-05122A?style=flat&logo=pytorch)&nbsp;
@@ -44,16 +46,22 @@
 **Web & Backend**\
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
+![Express.js](https://img.shields.io/badge/-Express.js-05122A?style=flat&logo=express)&nbsp;
+![REST API](https://img.shields.io/badge/-REST%20API-05122A?style=flat&logo=fastapi)&nbsp;
+![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-05122A?style=flat&logo=springboot)&nbsp;
+![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb)&nbsp;
 ![FastAPI](https://img.shields.io/badge/-FastAPI-05122A?style=flat&logo=fastapi)&nbsp;
-![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django&logoColor=092E20)&nbsp;
 ![Flask](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask)
-![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb)
+
+
+
 
 **Tools**\
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![VS Code](https://img.shields.io/badge/-VS%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Jupyter](https://img.shields.io/badge/-Jupyter-05122A?style=flat&logo=jupyter)&nbsp;
+![Postman](https://img.shields.io/badge/-Postman-05122A?style=flat&logo=postman)&nbsp;
 
 
 
@@ -62,6 +70,6 @@
 
 <p align="center">
 <a href="https://www.linkedin.com/in/atharva22/"><img src="https://img.shields.io/badge/-Atharva%20Patade-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:atharva.patade11@gmail.com"><img src="https://img.shields.io/badge/-atharva.patade11@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://github.com/Atharva2223"><img src="https://img.shields.io/badge/-@Atharva2223-181717?style=flat&logo=GitHub&logoColor=white"/></a>
+<a href="mailto:ayushauti5605@gmail.com"><img src="https://img.shields.io/badge/-ayushauti5605@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="https://github.com/Ayush5605"><img src="https://img.shields.io/badge/-@Atharva2223-181717?style=flat&logo=GitHub&logoColor=white"/></a>
 </p>
