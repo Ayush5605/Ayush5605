@@ -1,4 +1,4 @@
-![Ayush Auti Banner](./assets/atharva_patade_banner.png)
+![Ayush Auti Banner](./assets/ayush_auti_banner.png)
 
 <img alt="Hand Wave" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm **Ayush**</h2>
 
