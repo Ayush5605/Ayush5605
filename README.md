@@ -66,10 +66,38 @@
 
 
 
+
+
+
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
 <a href="https://www.linkedin.com/in/atharva22/"><img src="https://img.shields.io/badge/-Atharva%20Patade-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:ayushauti5605@gmail.com"><img src="https://img.shields.io/badge/-ayushauti5605@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://github.com/Ayush5605"><img src="https://img.shields.io/badge/-@Atharva2223-181717?style=flat&logo=GitHub&logoColor=white"/></a>
+<a href="https://github.com/Ayush5605"><img src="https://img.shields.io/badge/-@Atharva2223-181717?
+                                         
+                                         
+                                         
+                                         
+                                         # 📊 GitHub Stats:
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ayush5605&theme=radical&border=false&include_all_commits=true&count_private=true&layout=compact)
+
+![](https://github-readme-stats.vercel.app/api?username=Ayush5605&theme=radical&border=false&include_all_commits=true&count_private=true)<br/>
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=Ayush5605&theme=radical&hide_border=false)
+
+<img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" alt="About Me GIF" width="180px">
+
+<br/>
+
+## 🏆 GitHub Trophies
+
+![](https://github-profile-trophy.vercel.app/?username=Ayush5605&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+<!--START_SECTION:waka-->
+
+<!--END_SECTION:waka-->
+
+![views since 2023/06/14](https://visitor-badge-deno.deno.dev/Ayush5605.Ayush5605.svg)style=flat&logo=GitHub&logoColor=white"/></a>
 </p>
