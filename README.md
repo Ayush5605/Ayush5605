@@ -1,173 +1,67 @@
-<h1 align="center">Hi 👋, I'm Ayush Auti</h1>
+![Ayush Auti Banner](./assets/atharva_patade_banner.png)
 
-<h3 align="center">
-Computer Engineering Student | Full Stack Developer | AI/ML Enthusiast
-</h3>
+<img alt="Hand Wave" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm **Ayush**</h2>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/ayushauti5605/">LinkedIn</a>
-  •
-  <a href="https://ayush-portfolio56.vercel.app">Portfolio</a>
-  •
-  <a href="mailto:ayushauti5605@gmail.com">Email</a>
-</p>
+### 👨🏻‍💻 &nbsp;About Me
 
----
+💡 &nbsp;I'm a Full-stack developer with a strong interest in AI/ML .\
+🎓 &nbsp;I'm currently studying **Bachelor's in Computer Engineering ** at **Dr D.Y Patil Institute of Technology,Pimpri**.
 
-## 👨‍💻 About Me
+🌱 &nbsp;Currently going deeper into **Large Language Models, GenAI, Neural Networks  and Distributed Data Systems**.\
+✍️ &nbsp;In my free time, I work on side projects, contribute to open source, and write about ML .\
+💬 &nbsp;Feel free to reach out for collaborations, mentorship, or just an interesting tech discussion.\
+✉️ &nbsp;You can email me at **ayushauti5605@gmail.com** - I'll get back to you as soon as I can.
 
-- 🎓 Computer Engineering student
-- 💻 Full Stack Developer focused on MERN and Spring Boot
-- 🤖 Building projects in Machine Learning, Deep Learning and Computer Vision
-- 🧠 Exploring RAG, LangChain and AI-powered applications
-- 🚀 Interested in building production-ready software and AI systems
-- 📚 Currently strengthening DSA, Machine Learning and System Design
 
----
+<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
-## 🛠️ Tech Stack
+### 🛠 &nbsp;Tech Stack
 
-### 💻 Languages
+**Languages**\
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
+![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 
-<p>
-  <img src="https://skillicons.dev/icons?i=java,python,js,cpp" />
-</p>
+![SQL](https://img.shields.io/badge/-SQL-05122A?style=flat&logo=postgresql)&nbsp;
 
-**SQL**
+![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)
 
-### 🌐 Full Stack Development
+**AI / ML**\
+![PyTorch](https://img.shields.io/badge/-PyTorch-05122A?style=flat&logo=pytorch)&nbsp;
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-05122A?style=flat&logo=tensorflow)&nbsp;
+![scikit-learn](https://img.shields.io/badge/-scikit--learn-05122A?style=flat&logo=scikit-learn)&nbsp;
+![Hugging Face](https://img.shields.io/badge/-HuggingFace-05122A?style=flat&logo=huggingface)&nbsp;
+![LangChain](https://img.shields.io/badge/-LangChain-05122A?style=flat&logo=chainlink)&nbsp;
+![OpenAI](https://img.shields.io/badge/-OpenAI-05122A?style=flat&logo=openai)&nbsp;
+![Pandas](https://img.shields.io/badge/-Pandas-05122A?style=flat&logo=pandas)&nbsp;
+![NumPy](https://img.shields.io/badge/-NumPy-05122A?style=flat&logo=numpy)
 
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,spring,tailwind,bootstrap" />
-</p>
 
-### 🗄️ Databases
 
-<p>
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres" />
-</p>
 
-### 🤖 AI / ML
 
-<p>
-  <img src="https://skillicons.dev/icons?i=python,pytorch" />
-</p>
 
-**Machine Learning • Deep Learning • Computer Vision • MediaPipe • RAG • LangChain**
+**Web & Backend**\
+![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
+![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
+![FastAPI](https://img.shields.io/badge/-FastAPI-05122A?style=flat&logo=fastapi)&nbsp;
+![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django&logoColor=092E20)&nbsp;
+![Flask](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask)
+![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb)
 
-### 🧰 Tools
+**Tools**\
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+![VS Code](https://img.shields.io/badge/-VS%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+![Jupyter](https://img.shields.io/badge/-Jupyter-05122A?style=flat&logo=jupyter)&nbsp;
 
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,postman,docker,vscode" />
-</p>
 
----
 
-## 🚀 Featured Projects
 
-### 🏋️ GymVision — AI Real-Time Gym Trainer
-
-Real-time AI fitness trainer using Computer Vision and pose estimation.
-
-**Tech:** Python • Streamlit • MediaPipe • OpenCV • NumPy
-
-**Features:**
-- 🏋️ Squat detection
-- 💪 Biceps curl detection
-- 🤸 Push-up detection
-- 🦵 Lunge detection
-- 🏋️ Shoulder press detection
-- 📊 Rep and set tracking
-- 🎯 Exercise form analysis
-- ⚡ Real-time feedback
-
-[🔗 View Repository](YOUR_GYM_VISION_REPO)
-
----
-
-### 🤖 Finance Guru
-
-AI-powered finance application with AI assistance and premium subscription functionality.
-
-**Tech:** React • Node.js • MongoDB • Gemini • Firebase • Razorpay
-
-[🔗 View Repository](YOUR_FINANCE_GURU_REPO)
-
----
-
-### 🏠 Property Rental Platform
-
-Full-stack property rental platform with authentication, property listings and geolocation.
-
-**Tech:** MERN • MongoDB • Mapbox • Cloudinary • JWT
-
-[🔗 View Repository](YOUR_PROPERTY_REPO)
-
----
-
-### 📚 RAG Document Q&A
-
-Retrieval-Augmented Generation application for querying documents using semantic search.
-
-**Tech:** Python • LangChain • ChromaDB • Embeddings
-
-[🔗 View Repository](YOUR_RAG_REPO)
-
----
-
-## 📊 GitHub Stats
+### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=Ayush5605&show_icons=true&theme=tokyonight&hide_border=true"
-    height="180"
-  />
-
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayush5605&layout=compact&theme=tokyonight&hide_border=true"
-    height="180"
-  />
-</p>
-
----
-
-## 📈 Contribution Activity
-
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=Ayush5605&theme=tokyo-night&hide_border=true"
-  />
-</p>
-
----
-
-## 💡 What I Like Building
-
-- ⚙️ Full-stack web applications
-- 🤖 AI-powered applications
-- 👁️ Computer Vision systems
-- 📊 Data-driven applications
-- 🔗 RAG and LLM-powered systems
-- 🧩 Backend APIs and scalable services
-
----
-
-## 🤝 Let's Connect
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/ayushauti5605/">
-    LinkedIn
-  </a>
-  •
-  <a href="https://ayush-portfolio56.vercel.app">
-    Portfolio
-  </a>
-  •
-  <a href="mailto:ayushauti5605@gmail.com">
-    Email
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Ayush5605&color=green" />
+<a href="https://www.linkedin.com/in/atharva22/"><img src="https://img.shields.io/badge/-Atharva%20Patade-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:atharva.patade11@gmail.com"><img src="https://img.shields.io/badge/-atharva.patade11@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="https://github.com/Atharva2223"><img src="https://img.shields.io/badge/-@Atharva2223-181717?style=flat&logo=GitHub&logoColor=white"/></a>
 </p>
