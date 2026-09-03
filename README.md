@@ -70,11 +70,11 @@
 
 
 ### 🤝🏻 &nbsp;Connect with Me
-
 <p align="center">
-<a href="https://www.linkedin.com/in/atharva22/"><img src="https://img.shields.io/badge/-Atharva%20Patade-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/ayushauti5605/"><img src="https://img.shields.io/badge/-Ayush%20Auti-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:ayushauti5605@gmail.com"><img src="https://img.shields.io/badge/-ayushauti5605@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://github.com/Ayush5605"><img src="https://img.shields.io/badge/-@Atharva2223-181717?
+<a href="https://github.com/Ayush5605"><img src="https://img.shields.io/badge/-@Ayush5605-181717?style=flat&logo=Github&logoColor=white"/></a>
+</p>
                                          
                                          
                                          
@@ -99,5 +99,4 @@
 
 <!--END_SECTION:waka-->
 
-![views since 2023/06/14](https://visitor-badge-deno.deno.dev/Ayush5605.Ayush5605.svg)style=flat&logo=GitHub&logoColor=white"/></a>
-</p>
+
