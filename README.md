@@ -8,7 +8,7 @@
 ### 👨🏻‍💻 &nbsp;About Me
 
 💡 &nbsp;I'm a Full-stack developer with a strong interest in AI/ML .\
-🎓 &nbsp;I'm currently studying **Bachelor's in Computer Engineering ** at **Dr D.Y Patil Institute of Technology,Pimpri**.
+🎓 &nbsp;I'm currently studying **Bachelor's in Computer Engineering ** at **Dr D.Y Patil Institute of Technology,Pimpri**.\
 🌱 &nbsp;Currently going deeper into **Large Language Models, GenAI, Neural Networks  and Distributed Data Systems**.\
 ✍️ &nbsp;In my free time, I work on side projects, contribute to open source, and write about ML .\
 💬 &nbsp;Feel free to reach out for collaborations, mentorship, or just an interesting tech discussion.\
