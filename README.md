@@ -1,6 +1,9 @@
 ![Ayush Auti Banner](./assets/ayush_auti_banner.png)
 
-<img alt="Hand Wave" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm **Ayush**</h2>
+<p align="center">
+<!--   <a href="https://github.com/DenverCoder1/readme-typing-svg"> -->
+    <img src="https://readme-typing-svg.herokuapp.com?color=E22FE4&width=380&height=28&lines=Hi👋+I'm+Ayush+Auti..;Web+Developer+AIML+engineer;Learning+In+Public..;Empowering+Others;Nice+To+Meet+You+....&center=true"></a></p>
+
 
 ### 👨🏻‍💻 &nbsp;About Me
 
